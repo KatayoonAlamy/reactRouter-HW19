@@ -1,0 +1,74 @@
+{
+  "bootcamps": [
+    {
+      "title": "Alejandro Bauch",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "84.00",
+      "id": "1"
+    },
+    {
+      "title": "Dr. Edith Green PhD",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "381.00",
+      "id": "2"
+    },
+    {
+      "title": "Gerardo Schroeder",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "641.00",
+      "id": "3"
+    },
+    {
+      "title": "Sheryl Abbott",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "647.00",
+      "id": "4"
+    },
+    {
+      "title": "Lionel Strosin",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "700.00",
+      "id": "5"
+    },
+    {
+      "title": "Molly Walsh",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "632.00",
+      "id": "6"
+    },
+    {
+      "title": "Jerome Feeney",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "601.00",
+      "id": "7"
+    },
+    {
+      "title": "Simon Dickinson",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "916.00",
+      "id": "8"
+    },
+    {
+      "title": "Rosalie Denesik",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "651.00",
+      "id": "9"
+    },
+    {
+      "title": "Percy Collins",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "img": "https://loremflickr.com/640/480/business",
+      "price": "535.00",
+      "id": "10"
+    }
+  ]
+}
